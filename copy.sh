@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # install.sh
-# Copyright (C) 2014 yahswin <yashwinpoojary@gmail.com>
+# Copyright (C) 2014 yashwin <yashwinpoojary@gmail.com>
 #
 # Distributed under terms of the MIT license.
 #
