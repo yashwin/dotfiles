@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.dhilipsiva.dependencies_updater</string>
+	<string>com.yashwin.dependencies_updater</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>sh</string>

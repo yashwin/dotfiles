@@ -9,7 +9,7 @@
     autosetuprebase = always
 
 [github]
-    user = dhilipsiva
+    user = yashwin
 
 [diff]
     tool = vimdiff

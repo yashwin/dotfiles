@@ -44,7 +44,7 @@ function tc {
     open "http://www.truecaller.com/in/$*"
 }
 
-# Function for my site - dhilipsiva.com
+# Function for my site - yashwin.com
 function site {
      . ~/ENV/site/bin/activate
      cd ~/Projects/site/
