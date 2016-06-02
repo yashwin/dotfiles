@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 
-MAINTAINER dhilipsiva <dhilipsiva@gmail.com>
+MAINTAINER yashwin <yashwinpoojary@gmail.com>
 
 RUN apt-get update
