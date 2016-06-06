@@ -76,3 +76,6 @@ complete -F _docker d
 complete -F _docker-machine dm
 
 complete -F _docker-compose dc
+
+export PWDMAN_SALT=25590398-07FB-4B06-BC78-13ACD6FF5329
+export PWDMAN_PATH=/Users/appknox/pwdman
