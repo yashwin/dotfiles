@@ -23,7 +23,7 @@ au BufNewFile,BufReadPost *.coffee,*.rb,*.yml,*.yaml,*.js,*.jade setl tabstop=2 
 set expandtab
 
 filetype on
-autocmd BufWritePost *.py call Flake8() "apply flake8 as files are saved
+" autocmd BufWritePost *.py call Flake8() "apply flake8 as files are saved
 autocmd BufWritePre * :%s/\s\+$//e "Trim the line endings
 syntax on
 
